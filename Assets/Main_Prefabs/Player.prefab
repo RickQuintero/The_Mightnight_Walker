@@ -185,8 +185,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 0}
-  direction: {x: 0, y: 0, z: 0}
   canMovePlayer: 1
+  useConstantCameraAngle: 1
   speed: 4.2
   turnSmoothTime: 0.2
 --- !u!1 &7953311821049942326
